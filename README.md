@@ -4,7 +4,7 @@ My Portfolio WebApp is a Web App that is Made by Using WebView in Android Studio
 ## *Utsav Kumar*
 
 <p align="center">
-  <img src="https://github.com/iutsavsingh/Pro-Kabaddi-World/blob/master/Pro%20Kabaddi%20World%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://user-images.githubusercontent.com/106907207/195665969-d261b22e-eac9-4739-918c-5bad99c390f7.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 **My Portfolio WebApp** is a Web App that is Made by Using WebView in Android Studio using Kotlin. This App is Fully Responsive with Many Features(Listed Below).
