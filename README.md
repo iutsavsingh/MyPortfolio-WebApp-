@@ -30,7 +30,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/iutsavsingh/MyPortfolio_WebApp/blob/main/MyPortfolio%20WebApp%20Intro.mp4
+link = "https://github.com/iutsavsingh/MyPortfolio_WebApp/blob/main/MyPortfolio%20WebApp%20Intro.mp4"
+print(link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/"))
 
 ## License
 
