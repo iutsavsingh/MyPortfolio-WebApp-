@@ -1,4 +1,5 @@
 # MyPortfolio-WebApp-
+My Portfolio WebApp is a Web App that is Made by Using WebView in Android Studio using Kotlin. This App is Fully Responsive with Many Features(Listed Below).
 
 ## *Utsav Kumar*
 
@@ -6,7 +7,7 @@
   <img src="https://github.com/iutsavsingh/Pro-Kabaddi-World/blob/master/Pro%20Kabaddi%20World%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-**Pro Kabaddi World** is a Dynamic App that provides Kabaddi Match Schedule as well as Kabaddi 2022 Live Match, Schedule And Points Table. I have Made thsi App by Using Firebase[Firestore].
+**My Portfolio WebApp** is a Web App that is Made by Using WebView in Android Studio using Kotlin. This App is Fully Responsive with Many Features(Listed Below).
 
 Time spent: **18** hours spent in total
 
@@ -30,8 +31,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-link = "https://github.com/iutsavsingh/MyPortfolio_WebApp/blob/main/MyPortfolio%20WebApp%20Intro.mp4"
-print(link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/"))
+https://user-images.githubusercontent.com/106907207/195662020-b4e12bad-37dd-4258-8f78-a09a12b576a1.mp4
 
 ## License
 
