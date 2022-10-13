@@ -30,7 +30,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/106907207/193521012-05535c9a-5693-41b8-b682-b3b411828b43.mp4
+https://github.com/iutsavsingh/MyPortfolio_WebApp/blob/main/MyPortfolio%20WebApp%20Intro.mp4
 
 ## License
 
